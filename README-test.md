@@ -6,7 +6,12 @@ _Making so that I dont spam the root read me with checks and type stuff_
 ### English is drop translated via chrome translate using raw sauce
  
 I was going to try and decipher the translations line by line again, but decided that's futile after the first sentence.
-<br/> *Qunhui emby suite version server 1.5 key Bai Yan*
+>Qunhui emby suite version server 1.5 key Bai Yan
+
+While I want to replicate the source the best I can, as it is his sauce, I don't want to chase down details that won't affect the outcome. 
+
+
+I don't really want to waste even more time reasearhing this that and the other to try and 
 
 and follow along with the original outline, but there's some order changes I'd want to put first (DNS, it's always DNS) so that it can propagate while doing other steps.
 Instead of trying to decipher the various translations etc
