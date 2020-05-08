@@ -1,4 +1,4 @@
-#Making so that I dont spam the root read me with checks and type stuff
+_Making so that I dont spam the root read me with checks and type stuff_
 
 # Original [简体中文](/doc/README_zh.md)
 ## Original [English](/doc/README_en.md)
@@ -6,7 +6,7 @@
 ### English is drop translated via chrome translate using raw sauce
  
 I was going to try and decipher the translations line by line again, but decided that's futile after the first sentence.
-<br/> ***Qunhui emby suite version server 1.5 key Bai Yan
+<br/> *Qunhui emby suite version server 1.5 key Bai Yan*
 
 and follow along with the original outline, but there's some order changes I'd want to put first (DNS, it's always DNS) so that it can propagate while doing other steps.
 Instead of trying to decipher the various translations etc
