@@ -8,7 +8,9 @@ _Making so that I dont spam the root read me with checks and type stuff_
 I was going to try and decipher the translations line by line again, but decided that's futile after the first sentence.
 >Qunhui emby suite version server 1.5 key Bai Yan
 
-While I want to replicate the source the best I can, as it is his sauce, I don't want to chase down details that won't affect the outcome. 
+While I want to replicate the source the best I can, as it is his sauce, I don't want to chase down details that won't affect the outcome. That's not productive for anybody who might see this and think it's needed, and it's never fun for the person having to wade through crap.
+
+
 
 
 - 群辉emby套件版服务端一点五键白嫖
