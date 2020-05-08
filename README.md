@@ -1,7 +1,7 @@
-### Original [简体中文](/doc/README_zh.md)
+# Original [简体中文](/doc/README_zh.md)
 ## Original [English](/doc/README_en.md)
 
-# English is drop translated via chrome translate using raw sauce
+### English is drop translated via chrome translate using raw sauce
  
 
 - 群辉emby套件版服务端一点五键白嫖
