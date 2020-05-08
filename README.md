@@ -1,5 +1,5 @@
 ### Original [简体中文](/doc/README_zh.md)
-## Original [English] (/doc/README_en.md)
+## Original [English](/doc/README_en.md)
 
 # English is drop translated via chrome translate using raw sauce
  
