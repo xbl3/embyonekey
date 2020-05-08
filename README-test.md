@@ -11,10 +11,6 @@ I was going to try and decipher the translations line by line again, but decided
 While I want to replicate the source the best I can, as it is his sauce, I don't want to chase down details that won't affect the outcome. 
 
 
-I don't really want to waste even more time reasearhing this that and the other to try and 
-
-and follow along with the original outline, but there's some order changes I'd want to put first (DNS, it's always DNS) so that it can propagate while doing other steps.
-Instead of trying to decipher the various translations etc
 - 群辉emby套件版服务端一点五键白嫖
 - 左点点右点点,算你一点五键吧
 
